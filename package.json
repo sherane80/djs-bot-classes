@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^0.5.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.36.0",
+    "discord.js": "^13.0.1",
+    "dotenv": "^10.0.0"
+  },
+  "name": "djs-bot-classes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "sherane",
+  "license": "MIT",
+  "description": "A powerful bot architecture using classes to make your own Discord client !"
+}
